@@ -1,0 +1,24 @@
+{
+   "applicant1" : {
+      "name" : "mahesh",
+	  "address1" : "password1",
+	  "address2" : "teacher",
+      "address3" : "password1",
+	  "address4" : "teacher",
+	  "id": 1
+   },
+   "applicant2" : {
+      "address1" : "suresh",
+	  "address2" : "password2",
+	  "address3" : "librarian",
+      "address4" : "librarian",
+	  "id": 2
+   },
+   "applicant3" : {
+      "address1" : "ramesh",
+	  "address2" : "password3",
+	  "address3" : "clerk",
+      "address4" : "clerk",
+	  "id": 3
+   }
+}
